@@ -3,7 +3,9 @@
 * 安装配置
   * [NodeJS 安装配置](md_file/documents/01_NodeJS/details.md)
   * [MongoDB 安装配置](md_file/documents/02_MongoDB/details.md)
+  * [Redis 安装配置](md_file/documents/03_Redis/details.md)
   * [YApi 安装配置](md_file/documents/04_YApi/details.md)
+  * [docsify 安装配置](md_file/documents/05_docsify/details.md)
 
 * 使用指南
   * [MarkDown 使用指南](md_file/guidelines/01_MarkDown/details.md)
