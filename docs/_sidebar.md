@@ -7,6 +7,7 @@
   * [YApi 安装配置](md_file/documents/04_YApi/details.md)
   * [docsify 安装配置](md_file/documents/05_docsify/details.md)
   * [VisualStudio Code 安装配置](md_file/documents/06_VisualStudioCode/details.md)
+  * [MySQL 安装配置](md_file/documents/06_MySQL/details.md)
 
 * 使用指南
   * [MarkDown 使用指南](md_file/guidelines/01_MarkDown/details.md)
