@@ -17,6 +17,10 @@
   * [SpringDom4j 使用指南](md_file/guidelines/03_Dom4j_Spring/details.md)
   * [SpringJSON 使用指南](md_file/guidelines/04_JSON_Spring/details.md)
   * [GitHub 使用指南](md_file/guidelines/05_GitHub/details.md)
+  * [MyBatis 基本使用](md_file/guidelines/06_MyBatis/details.md)
+  * [MyBatisPlus 基本使用](md_file/guidelines/07_MyBatisPlus/details.md)
+  * [MyBatisPlus 多表查询](md_file/guidelines/08_MyBatisPlus-multi/details.md)
+  * [MyBatisPlus 分页查询](md_file/guidelines/09_MyBatisPlus-page/details.md)
   
 * 解决方案
   * [docsify 可折叠侧边栏](md_file/solutions/01_docsify_sidebar_collapse/details.md)
